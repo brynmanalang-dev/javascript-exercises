@@ -9,7 +9,12 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Carlos";
+const lastName = "Stevenson";
+const currentYear = 1965;
+const birthYear = 1947;
 
+console.log("Hello!" + " " + "My name is" + " " + firstName + " " + lastName + " " + "and I am" + " " + (currentYear - birthYear) + " " + "years old.")
 
 
 
